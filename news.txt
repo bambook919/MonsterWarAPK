@@ -8,6 +8,6 @@
 Золото × <color=#F6BE00>30 000</color>;
 Сапфиры × <color=#00B2C2>25</color>.
 
-• <b><color=#D9D9D6>NY2025</color></b> (до конца года):
+• <b><color=#D9D9D6>NY2025</color></b> (до 1 марта):
 Золото × <color=#F6BE00>25 000</color>;
 Сапфиры × <color=#00B2C2>15</color>.
